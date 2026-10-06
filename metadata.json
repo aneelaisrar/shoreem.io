@@ -1,0 +1,6 @@
+{
+  "name": "Shoreem.io - AI Creator & Marketing Suite",
+  "description": "Create Smarter. Grow Faster. The global AI SaaS studio for viral captions, reel scripts, hashtags, 30-day planners, and multilingual marketing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
